@@ -12,11 +12,11 @@
 - 🏦 I'm a Backend Engineering Lead working for a Health Tech startup in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
+- 💻 I use daily: **.js**, **.java**, **.yaml**,  **.sql**
+- 📖 I am currently reading **Atomic Habits** by James Clear
+- 💬 Talk to me about motorsport, cloud native, system design , Business & startups
 - 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+- ⚡ Fun fact: puedo hablar un poco de español.
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
@@ -43,7 +43,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 81.16 % as on ⏰ 23-Oct-2024
+⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 81.16 % as on ⏰ 24-Oct-2024
 
 ---
 
@@ -56,7 +56,7 @@
 - [How to Choose The Right Database for Your Application](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [... view more](https://apoorvtyagi.tech/)
+▶ [... view more](https://wiranlarbi.vercel.app/)
 
 ---
 
