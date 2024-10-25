@@ -11,7 +11,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Software Engineer focusing on Platform Engineering working for a Tech startup in Morocco 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [Blog](https://wiranlarbi.vercel.app/) and [medium](https://dev.to/apoorvtyagi)
+- 📝 I regulary write technical articles for [Blog](https://wiranlarbi.vercel.app/posts) and [medium](https://dotcipher.medium.com)
 - 💻 I use daily: **.js**, **.java**, **.yaml**,  **.sql**
 - 📖 I am currently reading **Atomic Habits** by James Clear
 - 💬 Talk to me about MotorSport, Deployment, Monitoring, Cloud Native , Business & startups
