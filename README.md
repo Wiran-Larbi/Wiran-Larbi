@@ -43,14 +43,14 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████████████████████████▁▁ } 94.28 % as on ⏰ 10-Dec-2024
+⏳ **Year Progress** { ████████████████████████████▁▁ } 94.55 % as on ⏰ 11-Dec-2024
 
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Power of Cloud Governance : AWS IAM Case study](https://wiranlarbi.vercel.app/posts/masterclass-governance-and-iam)
 - [A Comprehensive Guide to VPN Network Architecture](https://wiranlarbi.vercel.app/posts/vpn-network)
+- [Unlock the Power of Cloud Governance](https://wiranlarbi.vercel.app/posts/masterclass-governance-and-iam)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://wiranlarbi.vercel.app/posts)
@@ -60,7 +60,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
